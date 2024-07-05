@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    font-family: serif;
+    border: border-box;
+}
+header{
+    background-image: url(download.jfif);
+    background-repeat: no-repeat;
+    height:150px;
+    background-position: center;
+    margin-top:40px;
+    
+}
+#wishes{
+    color:aquamarine;
+    text-align: center;
+    font-size: 40px;
+    font-family:lucida handwriting;
+}
+
+
+
+body{
+    background-color: black;
+    background-image: url(project.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    
+}
+h1{
+    text-align:center;
+    font-size: 70px;
+    font-family: piefont;
+    margin-top:10px;
+    color:white;
+
+}
+button{
+    color:black;
+    background-color: rgb(70, 104, 214);
+    border-radius:10px;
+    text-align: center;
+    margin-left :230px;
+    margin-top:10px;
+    padding:5px;
+    font-size:20px;
+}
+footer{
+    color:white;
+    text-align: center;
+    left:0;
+    bottom:0;
+    width:100%;
+    position: fixed; 
+    margin-bottom: 30px;
+}
